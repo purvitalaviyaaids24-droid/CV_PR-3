@@ -5,9 +5,13 @@ Project Overview
 This project is a practical Computer Vision and Deep Learning project
 completed using Python, OpenCV, NumPy, Matplotlib, YuNet and YOLOv8.
 
-Here is my Explanation Video Link : 
+Here is my Explanation Video Link : https://drive.google.com/drive/folders/11JuUEkoyRLiX7bQwp_LoWRHadeYHttzR?usp=sharing
 
-Outputs: <img width="681" height="514" alt="Screenshot 2026-09-13 131416" src="https://github.com/user-attachments/assets/400cc5c4-939d-4618-b7ff-380dbb4c26f3" />
+
+
+Outputs:
+
+<img width="681" height="514" alt="Screenshot 2026-09-13 131416" src="https://github.com/user-attachments/assets/400cc5c4-939d-4618-b7ff-380dbb4c26f3" />
           <img width="644" height="524" alt="Screenshot 2026-09-13 132507" src="https://github.com/user-attachments/assets/e2c4e2c8-b8a3-415b-bc03-c5d5bb7a679c" />
           <img width="654" height="507" alt="Screenshot 2026-09-13 133157" src="https://github.com/user-attachments/assets/3ece0718-5820-4dcb-9403-bdc4e5abc003" />
   
